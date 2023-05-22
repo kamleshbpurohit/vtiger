@@ -11,7 +11,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+//Hardcoded test cases
 public class CreateAndDuplicateLeadTest {
 
 	public static void main(String[] args) {
